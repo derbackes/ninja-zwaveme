@@ -1,6 +1,9 @@
 Ninja ZWave.me Module
 ===
 
+This is a work in progress. The idea is to use the ZWave.me Razberry module to control any Z-Wave devices via it's API.
+
+
 ## Installation
 ### Step 1 - fetch module 
 ```
