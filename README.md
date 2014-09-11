@@ -1,6 +1,8 @@
 Ninja ZWave.me Module
 ===
 
+[![Build Status](https://api.shippable.com/projects/54100eb721c97efdb898adde/badge?branchName=master)](https://app.shippable.com/projects/54100eb721c97efdb898adde/builds/latest)
+
 This is a work in progress. The idea is to use the ZWave.me Razberry module to control any Z-Wave devices via it's API.
 
 
